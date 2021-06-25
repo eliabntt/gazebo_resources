@@ -6,7 +6,9 @@
 
 `models` directory contains various models
 `world` directory contains various world configurations 
-`photos` directory contains various screenshots for the world configurations
+`screenshots` directory contains various screenshots for the world configurations and of some resources
+
+**In the `all_worlds_name_order.pdf` file you can pre-visualize the worlds ordered by name.**
 
 ### Option 1 - easiest
 To use these worlds you can simply set the path in your launch file/package.
